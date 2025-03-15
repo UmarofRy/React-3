@@ -5,12 +5,9 @@ function App() {
 
   let a = prompt("Enter a number")
   const b = prompt("Ism kirit")
-  const soat = new Date()
-  const time = soat.getHours() + ":" + soat.getMinutes() + ":" + soat.getSeconds()
 
 
 
-  const newLocal = Date()
   return (
     <>
       <div style={{
